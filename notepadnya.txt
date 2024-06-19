@@ -1,0 +1,7 @@
+buat database seperti ini:
+
+akun = username, password
+StockOpname = namabarang, packaging, berat_per_package, batch, stok, kondisi, lokasi,username, timestamp
+divisi = divisi
+packaging = packaging
+barang = namabarang
